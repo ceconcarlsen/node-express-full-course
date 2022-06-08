@@ -1,1 +1,1 @@
-# node-express-full-course
+# FreeCodeCamp.org full course
